@@ -1,0 +1,35 @@
+
+	
+##	16. Mai 2013 15:40:54	C/C++ Developer
+Gespräch mit BES
+Wir bauen ein Stub auf Basis von unseres jetzigen DBG-SV-Modul 
+Vorteil:
+Wir haben das gesamte wissen im haus
+Es ist kein spezialwissen nötig (die schnittstelle ist dokumentiert, die anbindung an die SVI/SMI-schnittstelle ist im haus bekannt)
+
+
+
+## 16. Mai 2013 13:02:26
+
+Gespräch mit BESU hat ergeben das die Integration des DGB-Server sehr komplex ist
+Das Team hat beschlossen das nun auch der Staubs-Weg parallel durch BESU verfolgt wird
+Am Freitag den 24.05.2013 soll es ein endgültiges Ergebnis geben
+>> Wenn wir die Stubs-Lösung verfolgen so muss mindestens die Funktionalität der heutigen Lösung erreicht werden
+>> JOFR stellt das Header-File mit den Häuten Befehlen zur Verfügung
+>> Am 24.05.2013 wird HOFE,BES,ESC darüber sprechen
+
+#E	Mail von JOFR 
+Hallo Georg,
+
+Anbei die gewünschte API zu unserem DBG. Bei Detailfragen einfach melden. Ich kenne diesen DBG Agent recht gut, hab‘s geschrieben.  Sobald ich etwas Luft habe, schreibe ich die Anforderungen zusammen. 
+
+Wir haben uns damals für diesen eigenen Agent entschieden, weil weder der GDB noch der WindRiver TargetAgent für eine rasche Einbindung an das damalige M-CTools geeignet waren. Der WindRiver TargetAgent hat eine komplizierte Kommunikationsschnittstelle und läuft sehr hoch prior (Prio 2). Der GDB war uns damals zu komplex und hat nicht alle Anforderungen abgedeckt.
+
+Gruß Josef
+
+
+##	06.05.2013
+Gespräch mit Sören:
+	Vestas hat unseren Terminplan Akezptiert
+
+dfsdf
